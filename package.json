@@ -1,0 +1,16 @@
+{
+  "name": "tka",
+  "version": "1.0.0",
+  "description": "Take home assignment for ADT  Senior QA Automation Engineer",
+  "license": "ISC",
+  "author": "axel barfod",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "winston": "^3.17.0"
+  }
+}

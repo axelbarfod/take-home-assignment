@@ -3,7 +3,7 @@
  * Validate you have:
    * [npm](https://www.npmjs.com/) installed: run on terminal `npm -v`.
    * Check you have [node.js](https://nodejs.org/en) installed, on the terminal run `node -v`
-   * Check you have [git](https://git-scm.com/downloads) installed, on the terminal run `node -v`
+   * Check you have [git](https://git-scm.com/downloads) installed, on the terminal run `git -v`
 
 # Run 
 
